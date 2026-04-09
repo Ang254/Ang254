@@ -7,7 +7,7 @@ I am an aspiring technology professional with a strong interest in exploring dif
 
 I like learning by doing-breaking things, fixing them, and understanding how they work under the hood. My journey so far has taken me through networking with CCNA, into the cloud with AWS, and now into programming with Python.
 
-I focus on hands-on projects to build real skills. My current main work is in my Cloud folder here on GitHub, where I’m building and documenting cloud-based projects as I continue to learn.
+I focus on hands-on projects to build real skills. My current main work is in my Cloud folder here on GitHub [Cloud Projects Folder](https://github.com/Ang254/Cloud-Projects/tree/main/Cloud) where I’m building and documenting cloud-based projects as I continue to learn.
 
 ## 🎯 Goals
 
