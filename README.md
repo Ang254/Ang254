@@ -5,9 +5,9 @@ I am an aspiring technology professional with a strong interest in exploring dif
 
 ## 💡 Background
 
-* 🌱 Currently learning python and improving my problem-solving skills
-* ☁️ Completed training in AWS Cloud fundamentals
-* 🌐 Studied CCNA, with a solid foundation in networking concepts
+I like learning by doing—breaking things, fixing them, and understanding how they work under the hood. My journey so far has taken me through networking with CCNA, into the cloud with AWS, and now into programming with Python.
+
+I focus on hands-on projects to build real skills. My current main work is in my Cloud folder here on GitHub, where I’m building and documenting cloud-based projects as I continue to learn.
 
 ## 🎯 Goals
 
